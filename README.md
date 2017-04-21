@@ -1,7 +1,5 @@
 # Swift 3
 
----
-
 ## [Table of Contents](toc.md)
 
 - [The Basics](basics.md)

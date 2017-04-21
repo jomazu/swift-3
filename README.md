@@ -2,8 +2,8 @@
 
 ## [Table of Contents](toc.md)
 
-- [The Basics](basics.md)
-- [Collections and Functions](coll-func.md)
-- [Enumerations, Structs, and Classes](enum-struct-class.md)
-- [Advanced Concepts](adv-concepts.md)
-- [Event-Driven Applications](event-driven.md)
+- [The Basics](A-basics.md)
+- [Collections and Functions](B-coll-func.md)
+- [Enumerations, Structs, and Classes](C-enum-struct-class.md)
+- [Advanced Concepts](D-adv-concepts.md)
+- [Event-Driven Applications](E-event-driven.md)

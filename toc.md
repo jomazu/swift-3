@@ -1,26 +1,34 @@
 # Table of Contents
 
-### Chapter 1: The Basics
+## Chapter 1: The Basics
 
-    - Types, Constants, and Variables
-        - Types
-        - Constants
-        - Variables
+### Types, Constants, and Variables 
 
-    - Conditionals
-        - Ternary Operator
-        - Nested ifs
-        - else if
+- Types  
+- Constants
+- Variables
 
-    - Numbers
-        - Creating Integer Instances
-        - Operations on Integers
+### Conditionals
+
+- Ternary Operator
+- Nested ifs
+- else if
+
+### Numbers
+
+- Creating Integer Instances
+- Operations on Integers
     
-### Chapter 2: Collections and Functions
+---
+## Chapter 2: Collections and Functions
 
-### Chapter 3: Enumerations, Structures, and Classes
+---
+## Chapter 3: Enumerations, Structures, and Classes
 
-### Chapter 4: Advanced Concepts
+---
+## Chapter 4: Advanced Concepts
 
-### Chapter 5: Event-Driven Applications
+---
+## Chapter 5: Event-Driven Applications
 
+---
